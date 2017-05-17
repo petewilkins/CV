@@ -8,23 +8,13 @@ Below will be a list of the projects I have worked on throughout my time at Make
 
 | Projects   | Description   | Technologies  | Testing |
 | ---------- |---------------| --------------| --------- |
-| To be Added | - | - | - |
+| [Multiplayer Snake](https://github.com/petewilkins/multiplayer-snake) | A real-time, multiplayer, online version of the classic mobile game, snake. | JavaScript, NodeJS, Express, Sockets.io, p5.js | MochaJS, Chai |
+| [Instagran](https://github.com/petewilkins/instagran) | A spin on Instagram, less brunch, more wrinkles! | Ruby, Rails, HTML, CSS, Bootstrap | RSpec |
+| [Bowling Scorecard](https://github.com/petewilkins/bowling-challenge) | A scoring card for the unnecessarily complex game that is Bowling! | JavaScript, HTML, CSS, Bootstrap | Jasmine |
 
 More can be found on my [Github](https://github.com/petewilkins).
 
 ## Skills
-
-#### This Skill
-
-- Ruby
-- Rspec
-- Agile Methodologies
-- JIRA Platform
-- TDD / BDD
-- Pair Programming
-- Version Control
-- HTML5, CSS3, Bootstrap
-- Javascript
 
 ## Education
 
@@ -38,14 +28,14 @@ More can be found on my [Github](https://github.com/petewilkins).
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - Aspiration to software craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
 #### University of Bristol (September 2009 to July 2013)
 
 - Masters of Engineering in Electronic and Communications Engineering
 - Graduated with a 2:1, earning a first in my thesis
-- Thesis: Improving error resilience in HEVC (H.265) through edge direction based redundancy
+- Thesis: Improving error resilience in H.264 video sequences through edge direction based redundancy
 - Subjects studied: Image and Video coding, Speech and Audio processing, Advanced Mobile Radio techniques, Advanced Networks, Human-Computer Interaction, Mobile communications, Digital Filters and Spectral Analysis, Software Engineering in C and C++.
 
 ## Experience
@@ -63,7 +53,7 @@ I completed an 8 week paid summer research project in the networks lab at the Un
 I qualified as a Level 2 CSIA certified Ski Instructor and taught for 6 months at Norquay Ski resort in Banff, Canada. I also worked for 2 months as part of the Ski Patrol, where I responded to radio calls, organised the ski patrols response in emergencies and attended the emergencies myself.
 
 ## Hobbies and Interests
+- **YouTube** : I run a [YouTube Channel](http://youtube.com/c/GamingCareers) teaching all about how to livestream, record video and audio, and edit footage professionally.
 - **Music** : Writing, playing or watching live, I love it all. I've achieved a musical Grade 8 on Guitar and Grade 6 on Drums.
 - **Football** : Unfortunately a Manchester United fan. Ex-Captain of Bristol Badock Hall 1st XI and Cheadle Hulme School 1st XI football teams.
 - **Skiing** : Obsessed, hence the gap year!
-- **YouTube** : I run a [YouTube Channel](http://youtube.com/c/GamingCareers) all about how to livestream, record video and audio, and edit footage professionally.
