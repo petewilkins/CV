@@ -1,22 +1,24 @@
 ## Pete Wilkins
 
-I am a student at Makers Academy, an intensive 12 week coding bootcamp. I previously graduated from the University of Bristol with a masters in Electronic and Communications Engineering. Between graduating and now, I have spent 3 years working in the automotive industry as an Electronic Design Engineer. I have always had an interest in software development and recently decided I wanted to make the move and change careers.
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/peter-wilkins-8125445a/) | [YouTube](http://youtube.com/GamingCareers)
 
-## Projects
+I am a Full Stack Developer looking for opportunities to continue to accelerate my learning and keep me challenged on a daily basis.
 
-Below will be a list of the projects I have worked on throughout my time at Makers Academy.
+After 3 years working as an Electronic Feature Design Engineer at Jaguar Land Rover, I was eager for a new challenge and made the decision to jump from hardware to software by learning to code. I was attracted by a career in which I would be continually learning whilst still using the problem solving skills I had developed in my engineering background. Also I wanted to work in a faster paced industry where I could build things that could have a positive impact world wide and be deployed in an instant.
+
+Having come through Makers Academy, an intensive 12 week coding bootcamp, I have developed a passion for writing clean, tested and reusable code. I am now a competent and enthusiastic full stack junior developer looking for my first role in an environment where best practices are promoted and I can continue to learn at the pace set whilst at Makers Academy.
+
+## <a name="projects">Projects</a>
 
 | Projects   | Description   | Technologies  | Testing |
 | ---------- |---------------| --------------| --------- |
 | [Multiplayer Snake](https://github.com/petewilkins/multiplayer-snake) | A real-time, multiplayer, online version of the classic mobile game, snake. | JavaScript, NodeJS, Express, Sockets.io, p5.js | MochaJS, Chai |
 | [Instagran](https://github.com/petewilkins/instagran) | A spin on Instagram, less brunch, more wrinkles! | Ruby, Rails, HTML, CSS, Bootstrap | RSpec |
-| [Bowling Scorecard](https://github.com/petewilkins/bowling-challenge) | A scoring card for the unnecessarily complex game that is Bowling! | JavaScript, HTML, CSS, Bootstrap | Jasmine |
+| [Bowling Scorecard](https://github.com/petewilkins/bowling-challenge) | A scoring card for the unnecessarily complex game that is Bowling | JavaScript, HTML, CSS, Bootstrap | Jasmine |
 
 More can be found on my [Github](https://github.com/petewilkins).
 
-## Skills
-
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (March 2017 to June 2017)
 
@@ -38,7 +40,7 @@ More can be found on my [Github](https://github.com/petewilkins).
 - Thesis: Improving error resilience in H.264 video sequences through edge direction based redundancy
 - Subjects studied: Image and Video coding, Speech and Audio processing, Advanced Mobile Radio techniques, Advanced Networks, Human-Computer Interaction, Mobile communications, Digital Filters and Spectral Analysis, Software Engineering in C and C++.
 
-## Experience
+## <a name="experience">Experience</a>
 
 **Jaguar Land Rover** (August 2013 to April 2016)    
 *Advanced Electrical Design Engineer*  
@@ -52,8 +54,8 @@ I completed an 8 week paid summer research project in the networks lab at the Un
 *Ski Instructor*  
 I qualified as a Level 2 CSIA certified Ski Instructor and taught for 6 months at Norquay Ski resort in Banff, Canada. I also worked for 2 months as part of the Ski Patrol, where I responded to radio calls, organised the ski patrols response in emergencies and attended the emergencies myself.
 
-## Hobbies and Interests
-- **YouTube** : I run a [YouTube Channel](http://youtube.com/c/GamingCareers) teaching all about how to livestream, record video and audio, and edit footage professionally.
+## <a name="experience">Interests</a>
+- **YouTube** : I run a pretty successful [YouTube Channel](http://youtube.com/c/GamingCareers) teaching all about how to livestream, record video and audio, and edit footage professionally.
 - **Music** : Writing, playing or watching live, I love it all. I've achieved a musical Grade 8 on Guitar and Grade 6 on Drums.
-- **Football** : Unfortunately a Manchester United fan. Ex-Captain of Bristol Badock Hall 1st XI and Cheadle Hulme School 1st XI football teams.
+- **Football** : Unfortunately a Manchester United fan. Fortunately one that is actually from Manchester.
 - **Skiing** : Obsessed, hence the gap year!
