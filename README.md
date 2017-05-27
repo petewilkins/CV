@@ -12,6 +12,7 @@ Having come through Makers Academy, an intensive 12 week coding bootcamp, I have
 
 | Projects   | Description   | Technologies  | Testing |
 | ---------- |---------------| --------------| --------- |
+| [EatMe Mobile App](https://github.com/Simba14/EatMe) | A mobile application that helps users track the use-by dates of items in their fridge. Bonus features include: barcode scanning and recipe lookup. | React Native | Jest |
 | [Multiplayer Snake](https://github.com/petewilkins/multiplayer-snake) | A real-time, multiplayer, online version of the classic mobile game, snake. | JavaScript, NodeJS, Express, Sockets.io, p5.js | MochaJS, Chai |
 | [Instagran](https://github.com/petewilkins/instagran) | A spin on Instagram, less brunch, more wrinkles! | Ruby, Rails, HTML, CSS, Bootstrap | RSpec |
 | [Bowling Scorecard](https://github.com/petewilkins/bowling-challenge) | A scoring card for the unnecessarily complex game that is Bowling | JavaScript, HTML, CSS, Bootstrap | Jasmine |
