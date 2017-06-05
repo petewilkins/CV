@@ -1,8 +1,8 @@
 ## Pete Wilkins
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | <a href="https://www.linkedin.com/in/peter-wilkins-8125445a/">
-<img src="http://i.imgur.com/mMtUEMd.png" alt="LinkedIn" height="20" width="20"></a> | <a href="http://youtube.com/GamingCareers">
-<img src="http://i.imgur.com/o1A3so5.png" alt="YouTube" height="24" width="24"></a>
+<img src="http://i.imgur.com/gvqkkxS.png" alt="LinkedIn" height="18" width="18"></a> | <a href="http://youtube.com/GamingCareers">
+<img src="http://i.imgur.com/pDgcqIQ.png" alt="YouTube" height="18" width="18"></a>
 
 I am a Full Stack Developer with a background in Electronic Engineering. Looking for opportunities to continue to accelerate my learning and keep me challenged on a daily basis.
 
