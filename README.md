@@ -1,12 +1,12 @@
 ## Pete Wilkins
 
-[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | <a href="https://www.linkedin.com/in/peter-wilkins-8125445a/">
-<img src="http://i.imgur.com/mMtUEMd.png" alt="LinkedIn" height="20" width="20"></a> | <a href="http://youtube.com/GamingCareers">
-<img src="http://i.imgur.com/o1A3so5.png" alt="YouTube" height="24" width="24"></a>
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/peter-wilkins-8125445a/) |  [YouTube](http://youtube.com/GamingCareers)
 
 I am a Full Stack Developer with a background in Electronic Engineering. Looking for opportunities to continue to accelerate my learning and keep me challenged on a daily basis.
 
 Having come through Makers Academy, an intensive 12 week coding bootcamp, I have developed a passion for writing clean, tested and reusable code. I am now a competent and enthusiastic full stack junior developer looking for my first role in an environment where best practices are promoted and I can continue to learn at the pace set whilst at Makers Academy.
+
+I also run a pretty successful [YouTube Channel](http://youtube.com/c/GamingCareers) teaching all about how to livestream, record video and audio, and edit footage professionally.
 
 ## <a name="projects">Projects</a>
 
@@ -57,7 +57,7 @@ I qualified as a Level 2 CSIA certified Ski Instructor and taught for 6 months a
 More on my [LinkedIn](https://www.linkedin.com/in/peter-wilkins-8125445a/).
 
 ## <a name="experience">Interests</a>
-- **YouTube** : I run a pretty successful [YouTube Channel](http://youtube.com/c/GamingCareers) teaching all about how to livestream, record video and audio, and edit footage professionally.
+- **Video** : If you've read to this point, I would have thought you might have guessed that video is an interest of mine, hence the [YouTube Channel](http://youtube.com/c/GamingCareers) and [University Thesis](https://www.dropbox.com/s/rt4ugp5a6yduden/Thesis.pdf?dl=0).
 - **Music** : Writing, playing or watching live, I love it all. I've achieved a musical Grade 8 on Guitar and Grade 6 on Drums.
 - **Football** : Unfortunately a Manchester United fan. Fortunately one that is actually from Manchester.
 - **Skiing** : Obsessed, hence the season instructing!
