@@ -14,6 +14,7 @@ I also run a pretty successful [YouTube Channel](http://youtube.com/c/GamingCare
 | ---------- |---------------| --------------| --------- |
 | [EatMe iOS App](https://github.com/Simba14/EatMe) | A mobile application that helps users track the use-by dates of items in their fridge. Features include barcode scanning and recipe lookup based on items going out of date soonest. | React Native | Jest |
 | [Multiplayer Snake](https://github.com/petewilkins/multiplayer-snake) | A real-time, multiplayer, online version of the classic mobile game, snake. | JavaScript, NodeJS, Express, Sockets.io, p5.js | MochaJS, Chai |
+| [BoilerRoom](https://github.com/petewilkins/BoilerRoom) | An iOS and Android mobile application that lists music sets from the BoilerRoom YouTube channel. | React Native | Jest |
 | [Instagran](https://github.com/petewilkins/instagran) | A spin on Instagram, less brunch, more wrinkles, hence Insta-gran! | Ruby, Rails, HTML, CSS, Bootstrap | RSpec |
 
 Many more can be found on my [Github](https://github.com/petewilkins).
